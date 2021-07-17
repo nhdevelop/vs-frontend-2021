@@ -1,0 +1,51 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+/*Selector por etiquetas*/
+header{
+    background: #233760;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+footer{
+    background: #233760;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    line-height: 50px;
+}
+a {
+    font-size: 18px;
+    color: #7d0a42;
+    text-decoration: none;
+}
+
+footer a {
+    color: azure;
+
+}
+
+/*Selector por ID*/
+
+#Contenido{
+    border: 2px solid #FDCC00;
+    padding: 10px;
+
+}
+#Contenido img{
+    margin-left: 20%;
+}
+
+#Descripcion{
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+    margin: 10px;
+}
