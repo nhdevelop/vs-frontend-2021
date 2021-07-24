@@ -107,6 +107,21 @@ footer a {
     display: inline-block;
 }
 
+.contenidoc {
+    text-align: center; 
+    margin-left: 15px;
+    
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 20px; */
+}
+
+#contenidoc form input [type="text"], select{
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 300px;
+}
+
 input[type="text"], select{
     margin-bottom: 15px;
     padding: 10px;
